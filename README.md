@@ -35,8 +35,8 @@ Universidad de Antioquia • Facultad de ingeniería • Ude@ Educación Virtual
           
           3.3.3. Con las máscaras obtenidas en los puntos anteriores, realice la segmentación. La segmentación se consigue multiplicando la máscara por la imagen original, eliminando así los pixeles que no cumplen las condiciones de interés (hipointenso e hiperintenso).
           
-         4. Entregable:
-Realice un módulo en Python que permita el tratamiento básico de señales. Para hacerlo tenga en cuenta lo siguiente:
+                                      4. Entregable:
+          Realice un módulo en Python que permita el tratamiento básico de señales. Para hacerlo tenga en cuenta lo siguiente:
 
           4.1. Un objeto que contenga toda la información relevante de una señal, como lo son las dimensiones (número de canales, épocas y puntos), frecuencia de muestreo y la señal. Dicha señal es cargada desde un archivo con extensión mat.
           
